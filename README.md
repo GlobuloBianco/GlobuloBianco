@@ -38,3 +38,9 @@
 </div>
 <hr>
 <!--https://media0.giphy.com/media/QyPgvXCIQ1nbCRDIXS/giphy.gif?cid=ecf05e47cnvlb3b4qn1z3p2eyej9c0nevm41k821jafwn4k1&rid=giphy.gif&ct=g-->
+<div align="center">
+      <h3>Profile Views</h3>
+      
+![Visitor Count](https://profile-counter.glitch.me/GlobuloBianco/count.svg)
+      
+</div>
