@@ -6,15 +6,15 @@ ___
 <!-- <img align="right" height="150" src="https://avatars.githubusercontent.com/u/109812198?v=4"  /> -->
 
 <div align="center">
-<img align="center" src="https://cdn.discordapp.com/attachments/1080914521000005654/1080961042609348758/20230302_221151.png" width="350px" /><br>
+<img align="center" src="assets/tech-stack.png" width="350px" /><br>
 <br>
 
 |<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="25" alt="html5 logo" /></code><br>`HTML`|<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="25" alt="css3 logo" /></code><br>`CSS`|<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25" alt="javascript logo" /></code><br>`Javascript`|<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="25" alt="vscode logo" /></code><br>`VS Code`|<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="25" alt="bootstrap logo" /></code><br>`Bootstrap`|<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="25" alt="sass logo" /></code><br>`SASS`|<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="25" alt="nodejs logo" /></code><br>`NodeJS`|<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="25" alt="ts logo" /></code><br>`Typescript`|<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="25" alt="angular logo" /></code><br>`Angular`|<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="25" alt="java logo" /></code><br>`Java`|<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="25" alt="postgresql logo" /></code><br>`PostgreSQL`|<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="25" alt="spring logo" /></code><br>`Spring`|
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 <!-- Made with love by Globulo <3 -->
-<img align="left" src="https://cdn.discordapp.com/attachments/1080914521000005654/1080972275911770242/20230302_225737.png" width="30px" />
-<img align="right" src="https://cdn.discordapp.com/attachments/1080914521000005654/1080972276285055118/20230302_225705.png" width="30px" />
-<img align="center" src="https://cdn.discordapp.com/attachments/1080914521000005654/1080984698936885328/20230302_234542.png" width="400px" />
+<img align="left" src="assets/arrow-left.png" width="30px" />
+<img align="right" src="assets/arrow-right.png" width="30px" />
+<img align="center" src="assets/github-stats.png" width="400px" />
 </div>
 
 <div align="center">
@@ -24,7 +24,7 @@ ___
 </div>
 
 <div align="center">
-      <img src="https://cdn.discordapp.com/attachments/1080914521000005654/1080988337034231912/20230303_000128.png" width="300px" />
+      <img src="assets/social.png" width="300px" />
 
 |<code><a href="https://www.linkedin.com/in/francescowu/"><img width="22px" src="assets/linkedin.svg"> LinkedIn</a></code>|<code><a href="https://www.instagram.com/wjh_asleep/"><img width="22px" src="assets/instagram.svg"> Instagram</a></code>|<code><a href="https://telegram.me/iglobulo"><img width="22px" src="assets/telegram.svg"> Telegram</a></code>|<code><a href="mailto:wufrancescojh@gmail.com"><img width="22px" src="assets/gmail.svg"> Email</a></code>|
 | --- | --- | --- | --- |
